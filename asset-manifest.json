@@ -1,14 +1,13 @@
 {
-  "main.css": "/vnasian/static/css/main.585f3942.chunk.css",
-  "main.js": "/vnasian/static/js/main.2d39da13.chunk.js",
-  "main.js.map": "/vnasian/static/js/main.2d39da13.chunk.js.map",
-  "static/js/1.323f367c.chunk.js": "/vnasian/static/js/1.323f367c.chunk.js",
-  "static/js/1.323f367c.chunk.js.map": "/vnasian/static/js/1.323f367c.chunk.js.map",
+  "main.css": "/vnasian/static/css/main.e429673a.chunk.css",
+  "main.js": "/vnasian/static/js/main.b6bf0ab7.chunk.js",
+  "main.js.map": "/vnasian/static/js/main.b6bf0ab7.chunk.js.map",
+  "static/js/1.982ae5eb.chunk.js": "/vnasian/static/js/1.982ae5eb.chunk.js",
+  "static/js/1.982ae5eb.chunk.js.map": "/vnasian/static/js/1.982ae5eb.chunk.js.map",
   "runtime~main.js": "/vnasian/static/js/runtime~main.41a56ad7.js",
   "runtime~main.js.map": "/vnasian/static/js/runtime~main.41a56ad7.js.map",
-  "static/media/logo.svg": "/vnasian/static/media/logo.5d5d9eef.svg",
-  "static/css/main.585f3942.chunk.css.map": "/vnasian/static/css/main.585f3942.chunk.css.map",
+  "static/css/main.e429673a.chunk.css.map": "/vnasian/static/css/main.e429673a.chunk.css.map",
   "index.html": "/vnasian/index.html",
-  "precache-manifest.3a757a1d36769b6a3e6a1d128bc0d617.js": "/vnasian/precache-manifest.3a757a1d36769b6a3e6a1d128bc0d617.js",
+  "precache-manifest.82ea9a2a1ac9365173df220ac88e6dc4.js": "/vnasian/precache-manifest.82ea9a2a1ac9365173df220ac88e6dc4.js",
   "service-worker.js": "/vnasian/service-worker.js"
 }
