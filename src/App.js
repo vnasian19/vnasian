@@ -10,7 +10,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header"> 
-        <p>Test Video</p>
+        <p>Thể thao HD</p>
         <ReactPlayer url='http://cdn.vtvcab.vn/hls/THETHAO_HD/index.m3u8' playing controls={true} 
         width='50%'
         height='50%'
