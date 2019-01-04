@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/vnasian/static/css/main.e429673a.chunk.css"
   },
   {
-    "revision": "c74f9516940e7fbaf555624151454d55",
+    "revision": "524b8053ff9b2fb8d9a13e83f7f2e92e",
     "url": "/vnasian/index.html"
   }
 ];
