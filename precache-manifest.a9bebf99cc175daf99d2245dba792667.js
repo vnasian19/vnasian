@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c5ad9474427bbe026f8a",
+    "revision": "f8d3e7f854a188e5e5eb",
     "url": "/vnasian/static/css/main.c53c23db.chunk.css"
   },
   {
-    "revision": "c5ad9474427bbe026f8a",
-    "url": "/vnasian/static/js/main.c5ad9474.chunk.js"
+    "revision": "f8d3e7f854a188e5e5eb",
+    "url": "/vnasian/static/js/main.f8d3e7f8.chunk.js"
   },
   {
     "revision": "9128cf07bbc11346cb9a",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/vnasian/static/js/runtime~main.41a56ad7.js"
   },
   {
-    "revision": "854aa02cf9983e2fbffa139e9ab1c8f0",
+    "revision": "271e98515ab8b6c9cfd0f50801a51b66",
     "url": "/vnasian/index.html"
   }
 ];
